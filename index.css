@@ -1,0 +1,18 @@
+#chart-wrapper {
+  max-width: 800px;
+  margin: 64px auto;
+  padding: 56px;
+	box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+}
+
+.tooltip-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tooltip {
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid black;
+}
